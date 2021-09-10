@@ -1,11 +1,9 @@
-import Head from "next/head";
+import Meta from "../components/Meta";
 
 export default function About() {
   return (
     <>
-      <Head>
-        <title>About us</title>
-      </Head>
+      <Meta title="About page" />
       <h1>About page</h1>
     </>
   );

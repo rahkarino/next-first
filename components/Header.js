@@ -9,13 +9,7 @@ const Header = () => {
           <span>WebDev</span> News
         </h1>
         <p className={styles.description}>
-          Keep up to date with the latest web dev news Keep up to date with the
-          latest web dev news Keep up to date with the latest web dev news Keep
-          up to date with the latest web dev news Keep up to date with the
-          latest web dev news Keep up to date with the latest web dev news Keep
-          up to date with the latest web dev news Keep up to date with the
-          latest web dev news Keep up to date with the latest web dev news Keep
-          up to date with the latest web dev news
+          Keep up to date with the latest web dev news
         </p>
       </div>
     </div>

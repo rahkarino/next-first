@@ -1,12 +1,13 @@
-import Head from "next/head";
+import Meta from "../components/Meta";
 
 export default function Home() {
   return (
     <>
-      <Head>
-        <title>Web Development Course</title>
-        <meta name="keywords" content="web dev, programming" />
-      </Head>
+      <Meta
+        title="Home page"
+        keywords="dev, programming, homepage"
+        description="First page of the website"
+      />
       <h1>Home page</h1>
     </>
   );
